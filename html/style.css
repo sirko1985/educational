@@ -73,21 +73,22 @@ nav{
 	color: #fff;
 }
 
-.speciallize-container{
+.specialize-cantainer{
 	width: 80%;
 	margin: 0 auto;
 	text-align: center;
 
 }
 
-.speciallize-container h3{
-	font-size: 35px;
-}
-
-.speciallize-container p{
+.specialize-cantainer P{
 	margin-top: 20px;
 	font-size: 24px;
 }
+
+.specialize-cantainer h3{
+	font-size: 35px;
+}
+
 
 
 
